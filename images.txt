@@ -1,1 +1,1 @@
-chromadb/chroma:latest
+supersonicbi/supersonic:${SUPERSONIC_VERSION:-latest}
