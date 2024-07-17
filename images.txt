@@ -1,1 +1,3 @@
-supersonicbi/supersonic:${SUPERSONIC_VERSION:-latest}
+supersonicbi/supersonic:latest
+chromadb/chroma:0.5.3
+mysql:8.0
