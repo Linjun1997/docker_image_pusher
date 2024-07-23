@@ -1,3 +1,1 @@
-supersonicbi/supersonic:latest
-chromadb/chroma:0.5.3
-mysql:8.0
+docker.io/searxng/searxng:latest
