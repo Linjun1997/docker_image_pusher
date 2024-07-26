@@ -1,2 +1,1 @@
-docker.io/valkey/valkey:7-alpine
-docker.io/library/caddy:2-alpine
+ollama/ollama:latest
