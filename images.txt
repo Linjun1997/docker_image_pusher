@@ -1,1 +1,1 @@
-ollama/ollama:latest
+mysql:8.0.39
