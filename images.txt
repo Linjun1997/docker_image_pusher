@@ -1,1 +1,1 @@
-chromadb
+chromadb/chroma:latest
