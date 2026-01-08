@@ -1,1 +1,1 @@
-milvus
+milvusdb/milvus
